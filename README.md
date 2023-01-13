@@ -25,7 +25,7 @@
 
 ### Skills info.
 
-**Platforms**
+**💬Platforms💬**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
@@ -34,13 +34,13 @@
  
 </p>
 
-**Languages**
+**📖Languages📖**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 </p>
   
-**Usable programs**
+**✔Usable programs✔**
 
 <p>
   
