@@ -12,12 +12,10 @@
   
 **↓**
   
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
              
             
 
-
-<br/>
 
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TaegyeonKIM&&show_icons=true&theme=aura_dark)
