@@ -6,7 +6,7 @@
 
              
 ### ✨Welcome to my Git hub!✨
-#### I'm Freeranced Motion graphic designer/illustrator and student who studies to be a nice developer!
+#### I'm freeranced motion graphic designer/illustrator and student who studies to be a nice developer!
 
 **contact**
   
