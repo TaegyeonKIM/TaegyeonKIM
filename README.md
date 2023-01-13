@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Taegyeong%20KIM's%20GitHub!&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=SSAFY_9thGEN&fontSize=70&animation=twinkling)
 
 
 
